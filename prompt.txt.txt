@@ -1,0 +1,44 @@
+PROMPT 1:
+Design a menu-driven 2D Graphics Editor in C that supports adding, deleting, modifying, and displaying shapes.
+
+RESPONSE:
+Suggested creating a menu with options:
+1. Add Object
+2. Delete Object
+3. Modify Object
+4. Display Picture
+5. Exit
+
+PROMPT 2:
+How can I implement Bresenham's Line Drawing Algorithm in C?
+
+RESPONSE:
+Provided a C function implementing Bresenham's line algorithm to draw lines on a pixel canvas.
+
+
+PROMPT 3:
+How can I implement the Midpoint Circle Drawing Algorithm in C?
+
+RESPONSE:
+Provided a C function implementing the midpoint circle algorithm for drawing circles.
+
+
+PROMPT 4:
+Help me create structures for Line, Rectangle, Circle, and Triangle objects in C.
+
+RESPONSE:
+Suggested using structs with coordinates and maintaining an array of shape objects.
+
+
+PROMPT 5:
+How do I implement delete and modify functionality for shapes in a 2D Graphics Editor?
+
+RESPONSE:
+Suggested searching shapes by ID and updating or removing them from the shape array.
+
+
+PROMPT 6:
+How can I display all shapes currently stored in the editor?
+
+RESPONSE:
+Suggested traversing the shape list and printing details of each shape.
